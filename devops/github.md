@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet  ✔️
+- travailler avec des branches ✔️
+- faire une PR  ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions ❌ 
 
 ## 💻 J'utilise
 
@@ -18,9 +18,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](...) https://github.com/MarcHazime/Countrizz.git
 
-Description :
+Description : travail en groupe de 3 donc PR et code review fait par les autres membres du groupe à chaque push
 
 ### Utilisation en production si applicable❌ / ✔️
 
