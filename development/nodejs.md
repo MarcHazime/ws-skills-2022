@@ -8,12 +8,12 @@
 
 - Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
 - La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
-- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
-- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
+- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ 
+- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ 
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
 ```javascript
 // this function takes a path to a .md file of the host system and write the HTML version of this file
@@ -29,13 +29,13 @@ Description :
 
 ### Utilisation en production si applicable❌ / ✔️
 
-[lien du projet](...)
+[[lien du projet](...)](https://github.com/MarcHazime/refacto-Appli-react-.git)
 
-Description :
+Description :applicatio ndéveloppé en cours avec un back en node / express et un front react. Creation d'une API rest sqlite
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
-Description :
+Description : utilisatio nde typescript react en milieu professionnel pas de back
 
 ## 🌐 J'utilise des ressources
 
