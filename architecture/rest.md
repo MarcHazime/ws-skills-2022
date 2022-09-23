@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP: methode Creat Read Update Delete ✔️ 
+- les statuts HTTP: statuts 200 successfull 400 failed 404 not found ...  ✔️
+- les endpoints : ce sont les chemin post, delete ... ex : app.post('/wilders/:wilderId/skills', wildersController.addSkill);✔️
+- CORS  ❌
+- la nomenclature recommandée pour les routes  ✔️
 
 ## 💻 J'utilise
 
@@ -18,9 +18,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](...)https://github.com/MarcHazime/refacto-Appli-react-.git
 
-Description :
+Description :créatio nd'une API rest avec 2 Crud (wilders et skills)
 
 ### Utilisation en production si applicable❌ / ✔️
 
